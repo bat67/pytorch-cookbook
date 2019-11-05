@@ -8,4 +8,8 @@
 * [如何给你PyTorch里的Dataloader打鸡血](https://zhuanlan.zhihu.com/p/66145913)
 * [PyTorch踩过的坑](https://zhuanlan.zhihu.com/p/59205847)
 * [万字综述，核心开发者全面解读PyTorch内部机制](https://zhuanlan.zhihu.com/p/59205847)
+* [pytorch常见的坑汇总](https://zhuanlan.zhihu.com/p/77952356)
+
+
+
 
