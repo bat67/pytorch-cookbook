@@ -11,6 +11,7 @@
 * [pytorch常见的坑汇总](https://zhuanlan.zhihu.com/p/77952356)
 * [给pytorch 读取数据加速](https://zhuanlan.zhihu.com/p/72956595)
 * [pytorch多gpu并行训练](https://zhuanlan.zhihu.com/p/86441879)
+* [Pytorch的12个坑](https://zhuanlan.zhihu.com/p/91485607)
 
 
 
