@@ -13,6 +13,7 @@
 * [pytorch多gpu并行训练](https://zhuanlan.zhihu.com/p/86441879)
 * [Pytorch的12个坑](https://zhuanlan.zhihu.com/p/91485607)
 * [pytorch分布式训练](https://zhuanlan.zhihu.com/p/58620622)
+* [Pytorch Sampler详解](https://zhuanlan.zhihu.com/p/82985227)
 
 
 
