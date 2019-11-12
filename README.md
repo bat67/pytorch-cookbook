@@ -14,6 +14,7 @@
 * [Pytorch的12个坑](https://zhuanlan.zhihu.com/p/91485607)
 * [pytorch分布式训练](https://zhuanlan.zhihu.com/p/58620622)
 * [Pytorch Sampler详解](https://zhuanlan.zhihu.com/p/82985227)
+* [pytorch 关于 learning rate](https://zhuanlan.zhihu.com/p/39020473)
 
 
 
