@@ -17,6 +17,7 @@
 * [pytorch 关于 learning rate](https://zhuanlan.zhihu.com/p/39020473)
 * [PyTorch手把手自定义Dataloader读取数据](https://zhuanlan.zhihu.com/p/35698470)
 * [Pytorch的模型结构可视化（tensorboard）](https://zhuanlan.zhihu.com/p/58961505)
+* [torch.backends.cudnn.benchmark ?!](https://zhuanlan.zhihu.com/p/73711222)
 
 
 
