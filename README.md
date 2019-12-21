@@ -19,6 +19,7 @@
 * [Pytorch的模型结构可视化（tensorboard）](https://zhuanlan.zhihu.com/p/58961505)
 * [torch.backends.cudnn.benchmark ?!](https://zhuanlan.zhihu.com/p/73711222)
 * [Pytorch 提速指南](https://zhuanlan.zhihu.com/p/39752167)
+* [当代研究生应当掌握的并行训练方法（单机多卡）](https://zhuanlan.zhihu.com/p/98535650)
 
 
 
